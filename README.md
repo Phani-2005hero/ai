@@ -6,3 +6,4 @@ lab05. https://github.com/Phani-2005hero/ai/blob/main/Lab05%20Assignment_5.ipynb
 lab06. https://github.com/Phani-2005hero/ai/blob/main/Lab06-AIML%20(1).ipynb
 lab07. https://github.com/Phani-2005hero/ai/blob/main/AIML_LAB_07.ipynb
 lab08. https://github.com/Phani-2005hero/ai/blob/main/Lab08%20tree%20decsicion.ipynb
+lab09 https://github.com/Phani-2005hero/ai/blob/main/Lab9.ipynb
